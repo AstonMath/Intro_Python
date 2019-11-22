@@ -1,2 +1,2 @@
 # Introduction to Python: From MATLAB to Python
-Python workshop
+This repository contains the Jupyter Python workbook for the Introduction to Python workshop held at Aston University.
