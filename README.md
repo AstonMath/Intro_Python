@@ -24,7 +24,7 @@ In today's workshop, we plan to cover the following content
    * 3.2 Array generating functions
    * 3.3 Files read/write commands 
    * 3.4 Manipulating arrays
-   * 3.5 Linear alegra of arrays
+   * 3.5 Linear algebra of arrays
  * 4 Plotting in Python
    * 4.1 The Matplotlib module
    * 4.2 The MATLAB and object-orientated API
